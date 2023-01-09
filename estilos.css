@@ -1,0 +1,41 @@
+body{
+    background: #045FB4;
+}
+
+.redondo{
+    border-end-end-radius: 50%;
+}
+
+.redondo1{
+    border-top-left-radius: 50%;
+}
+
+.tabla{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.cuadrado_1{
+    background: red;
+}
+
+.cuadrado_2{
+    background: blue;
+}
+
+.cuadrado_3{
+    background: yellow;
+}
+
+.cuadrado_4{
+    background: green;
+}
+
+.blanco{
+    background: white;
+}
+
+.secuenciaLetra{
+    font-size: 40px;
+}
